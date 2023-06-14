@@ -1,0 +1,1 @@
+pod file is the file whichis used to confire and install dependency in ios
